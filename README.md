@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ═══════════════════════ BANNER ═══════════════════════ -->
+<!-- ═══════════════════════ BANNER ═══════════════════════ -->   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ravi%20Tripathi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
