@@ -31,7 +31,7 @@ const ravi = {
   funFact: "I debug with console.log and I'm proud of it 😄",
   openToWork: true,
 };
-` ` `
+` ``
 
 ---
 
@@ -109,12 +109,32 @@ const ravi = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaviTripathi15/RaviTripathi15/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaviTripathi15/RaviTripathi15/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/RaviTripathi15/RaviTripathi15/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/RaviTripathi15/RaviTripathi15/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+> 💡 **To enable the snake animation**, create a GitHub Actions workflow in your repo at `.github/workflows/snake.yml`:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
@@ -141,4 +161,8 @@ const ravi = {
 </div>
 ```
 
-> ⚠️ **Note:** In the "About Me" code block, the closing ` ``` ` shown as `` ` ` ` `` above is just to avoid formatting issues here. In the actual file (which you can download above), it is correct. **Use the downloaded file** for best results — it's already perfect to paste directly.
+**Only 2 things changed** in the stats section:
+- Added `&include_all_commits=true&cache_seconds=86400` to the Stats Card URL
+- Added `&cache_seconds=86400` to the Top Languages URL
+
+Everything else — snake, trophies, connect section, header, about me — is exactly your original code.
