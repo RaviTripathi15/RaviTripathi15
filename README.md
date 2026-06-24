@@ -1,168 +1,147 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravi%20Tripathi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=53&descSize=16" />
+<!-- ═══════════════════════ BANNER ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ravi%20Tripathi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing Animation -->
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ravi+Tripathi+%F0%9F%91%8B;Full+Stack+Web+Developer+%F0%9F%9A%80;Java+%7C+C%2B%2B+%7C+Python+Programmer+%F0%9F%92%BB;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ravi+%F0%9F%91%8B;Full+Stack+Web+Developer;DSA+Practitioner+in+Java;Building+Projects+Daily+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
+<!-- ═══════════════════════ VISITOR COUNTER ═══════════════════════ -->
 <br/>
-
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=RaviTripathi15&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/RaviTripathi15?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://komarev.com/ghpvc/?username=RaviTripathi15&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/RaviTripathi15?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
 
 </div>
 
 ---
+
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 ## 🧑‍💻 About Me
 
 ```javascript
 const ravi = {
-  name: "Ravi Tripathi",
-  role: "Full Stack Developer",
-  location: "India 🇮🇳",
-  education: "Computer Science",
-  currentlyLearning: ["System Design", "DSA", "Cloud Computing"],
-  funFact: "I debug with console.log and I'm proud of it 😄",
-  openToWork: true,
+  name:       "Ravi Tripathi",
+  location:   "Bhopal, Madhya Pradesh 🇮🇳",
+  education:  "B.Tech CSE @ Oriental College of Technology",
+  role:       "Full Stack Developer & DSA Learner",
+  passion:    ["Problem Solving", "Building Projects", "Clean Code"],
+  currentlyLearning: ["React.js", "Node.js", "System Design"],
+  goal:       "Becoming a skilled Software Engineer 🚀",
+  funFact:    "I debug with console.log and I'm proud of it 😄"
 };
-` ``
+```
+
+- 🔭 &nbsp; Currently building full-stack web applications with **React + Node.js**
+- 🌱 &nbsp; Sharpening **DSA** skills daily on LeetCode (Java)
+- 💡 &nbsp; Passionate about writing clean, efficient, and scalable code
+- 🎯 &nbsp; Goal: Crack a top-tier **Software Engineering** role
+- ⚡ &nbsp; Learning and shipping something new **every single day**
+- 📫 &nbsp; Reach me at: **[LinkedIn](https://www.linkedin.com/in/ravi-tripathi-2b9690376)**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<!-- ═══════════════════════ SKILLS ═══════════════════════ -->
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+## 🛠️ Skills & Technologies
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+**Languages**
 
-### 💾 Database
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧠 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+**Frontend**
 
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=RaviTripathi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="180" />
-&nbsp;&nbsp;
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTripathi15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="180" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaviTripathi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RaviTripathi15&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br/>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=RaviTripathi15&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviTripathi15&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTripathi15&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
 ---
+
+<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviTripathi15&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed" width="100%" />
+</div>
+
+---
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaviTripathi15&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RaviTripathi15&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RaviTripathi15/RaviTripathi15/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> 💡 **To enable the snake animation**, create a GitHub Actions workflow in your repo at `.github/workflows/snake.yml`:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
-## 📫 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravitripathi15)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ravitripathi15)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravitripathi15@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ravitripathi15.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-RaviTripathi15-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviTripathi15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi%20Tripathi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-tripathi-2b9690376)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RaviTripathi15)
 
 </div>
 
 ---
 
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
+
+## 💬 Dev Quote
+
 <div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-**⭐ If you like my work, consider giving my repos a star!**
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </div>
-```
 
-**Only 2 things changed** in the stats section:
-- Added `&include_all_commits=true&cache_seconds=86400` to the Stats Card URL
-- Added `&cache_seconds=86400` to the Top Languages URL
+---
 
-Everything else — snake, trophies, connect section, header, about me — is exactly your original code.
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  
+  <sub>⭐ <i>Star some repos if you find them helpful — it keeps the motivation alive!</i> ⭐</sub>
+</div>
