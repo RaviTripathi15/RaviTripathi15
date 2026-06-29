@@ -1,148 +1,244 @@
 <div align="center">
 
-<!-- ═══════════════════════ BANNER ═══════════════════════ -->   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ravi%20Tripathi&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DSA%20Learner%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366f1,50:8b5cf6,100:ec4899&text=Hey,%20I'm%20Ravi%20Tripathi%20👋&fontColor=ffffff&fontSize=48&animation=fadeIn&desc=CSE%20Student%20→%20Full%20Stack%20Developer&descAlignY=68&descSize=18"/>
 
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Ravi+%F0%9F%91%8B;Full+Stack+Web+Developer;DSA+Practitioner+in+Java;Building+Projects+Daily+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+</div>
 
-<!-- ═══════════════════════ VISITOR COUNTER ═══════════════════════ -->
-<br/>
-<img src="https://komarev.com/ghpvc/?username=RaviTripathi15&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/RaviTripathi15?label=Followers&style=flat-square&color=7c3aed" alt="Followers" />
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-RaviTripathi15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviTripathi15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi%20Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-tripathi)
+[![Email](https://img.shields.io/badge/Email-tripathiravi5500@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathiravi5500@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=RaviTripathi15&style=for-the-badge&color=6366f1&label=VISITORS)](https://github.com/RaviTripathi15)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+## 🧑‍💻 Who Am I?
 
-## 🧑‍💻 About Me
+I'm a **Computer Science Engineering student** building real-world full-stack applications — from pixel-perfect frontends to scalable backend APIs and optimized databases.
 
-```javascript
-const ravi = {
-  name:       "Ravi Tripathi",
-  location:   "Bhopal, Madhya Pradesh 🇮🇳",
-  education:  "B.Tech CSE @ Oriental College of Technology",
-  role:       "Full Stack Developer & DSA Learner",
-  passion:    ["Problem Solving", "Building Projects", "Clean Code"],
-  currentlyLearning: ["React.js", "Node.js", "System Design"],
-  goal:       "Becoming a skilled Software Engineer 🚀",
-  funFact:    "I debug with console.log and I'm proud of it 😄"
-};
+I believe in one thing above all:
+
+> **Ship real products. Write clean code. Solve real problems.**
+
+Not chasing shortcuts. Building a rock-solid foundation — one feature, one query, one deployment at a time.
+
+---
+
+## 🎯 2026 Goals
+
+```text
+ ✅  Master Java Core & OOP fundamentals
+ ✅  Build production-ready full-stack applications
+ 🔄  Deep dive into Data Structures & Algorithms (Java)
+ 🔄  SQL — advanced queries, indexing, optimization
+ 🔜  System Design fundamentals
+ 🔜  REST API design best practices
+ 🔜  Open source contribution
+ 🔜  Land a Full Stack / SDE internship
 ```
 
-- 🔭 &nbsp; Currently building full-stack web applications with **React + Node.js**
-- 🌱 &nbsp; Sharpening **DSA** skills daily on LeetCode (Java)
-- 💡 &nbsp; Passionate about writing clean, efficient, and scalable code
-- 🎯 &nbsp; Goal: Crack a top-tier **Software Engineering** role
-- ⚡ &nbsp; Learning and shipping something new **every single day**
-- 📫 &nbsp; Reach me at: **[LinkedIn](https://www.linkedin.com/in/ravi-tripathi-2b9690376)**
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind&theme=light" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python&theme=light" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=light" />
+</p>
 
 ---
 
-<!-- ═══════════════════════ SKILLS ═══════════════════════ -->
+## 🗺️ My Learning Path
 
-## 🛠️ Skills & Technologies
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+```
+ START
+   │
+   ▼
+ Java Core & OOP ✅
+   │
+   ▼
+ Data Structures & Algorithms (Java) 🔄
+   │
+   ▼
+ HTML · CSS · JavaScript ✅
+   │
+   ▼
+ React.js — Components, Hooks, State 🔄
+   │
+   ▼
+ Node.js + Express — REST APIs ✅
+   │
+   ▼
+ SQL — Queries, Joins, Optimization 🔄
+   │
+   ▼
+ MongoDB — NoSQL patterns 🔄
+   │
+   ▼
+ System Design Fundamentals 🔜
+   │
+   ▼
+ Full Stack SDE 🎯
+```
 
 ---
 
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
+## 🚀 Featured Projects
+
+### 🌾 Smart Krishi
+> Agriculture intelligence platform helping farmers make data-driven decisions.
+
+**Stack:** React · Node.js · MongoDB
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RaviTripathi15/Smart_Krishi)
+
+---
+
+### 🚀 CareerForge
+> Structured roadmap platform for engineering students navigating 14+ tech domains — with AI mentor support, XP, streaks, and assessments.
+
+**Stack:** React · Node.js · MongoDB
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RaviTripathi15/CareerForge)
+
+---
+
+### 📦 DropZone
+> Secure file sharing with UUID-based links, SHA-256 password protection, and 7-day auto-expiry.
+
+**Stack:** Python · Flask
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RaviTripathi15/DropZone)
+
+---
+
+### 🗂️ Lazy Downloads Organizer
+> Python automation script that sorts your messy Downloads folder into clean categorized directories — automatically.
+
+**Stack:** Python
+
+[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RaviTripathi15/lazy-downloads-organizer)
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaviTripathi15&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RaviTripathi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=RaviTripathi15&theme=tokyonight&hide_border=true" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTripathi15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 
-<br/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTripathi15&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=RaviTripathi15&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
+## 🧠 DSA Progress (Java)
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaviTripathi15&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed" width="100%" />
-</div>
-
----
-
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaviTripathi15&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" />
-</div>
+```text
+Arrays & Strings        ██████████░░  Solid
+Linked Lists            ████████░░░░  In Progress
+Stacks & Queues         ███████░░░░░  In Progress
+Trees & Graphs          █████░░░░░░░  Learning
+Recursion & Backtrack   ██████░░░░░░  Building
+Dynamic Programming     ████░░░░░░░░  Upcoming
+```
 
 ---
 
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## 🐍 Contribution Snake
 
-## 🌐 Connect With Me
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaviTripathi15/RaviTripathi15/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaviTripathi15/RaviTripathi15/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaviTripathi15/RaviTripathi15/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-<div align="center">
+<details>
+<summary>⚙️ Snake Workflow Setup</summary>
 
-[![GitHub](https://img.shields.io/badge/GitHub-RaviTripathi15-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviTripathi15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi%20Tripathi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-tripathi-2b9690376)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RaviTripathi15)
+Create `.github/workflows/snake.yml`:
 
-</div>
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: RaviTripathi15
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
-<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
+## 💭 How I Think About Code
 
-## 💬 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-</div>
+```
+Understand the problem before writing line one.
+Write it working, then write it clean.
+A slow query will kill a fast app.
+UI is your product's first impression — own it.
+Readable code is a gift to your future self.
+```
 
 ---
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+## 📚 What I'm Learning This Month
+
+- ☕ Java — DSA patterns (trees, graphs, DP)
+- ⚛️ React — advanced hooks, performance patterns
+- 🗃️ SQL — indexing, query optimization, joins
+- 🔗 REST API design — auth, error handling, rate limiting
+- 🏗️ System Design — databases, load balancing, caching
+
+The goal is not speed. The goal is **depth + consistency**.
+
+---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-  
-  <sub>⭐ <i>Star some repos if you find them helpful — it keeps the motivation alive!</i> ⭐</sub>
+
+### 🌱 Building Today. Shipping Tomorrow. Improving Always.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6366f1,50:8b5cf6,100:ec4899"/>
+
 </div>
