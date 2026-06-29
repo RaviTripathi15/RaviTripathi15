@@ -96,43 +96,7 @@ Not chasing shortcuts. Building a rock-solid foundation — one feature, one que
 
 ---
 
-## 🚀 Featured Projects
 
-### 🌾 Smart Krishi
-> Agriculture intelligence platform helping farmers make data-driven decisions.
-
-**Stack:** React · Node.js · MongoDB
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RaviTripathi15/Smart_Krishi)
-
----
-
-### 🚀 CareerForge
-> Structured roadmap platform for engineering students navigating 14+ tech domains — with AI mentor support, XP, streaks, and assessments.
-
-**Stack:** React · Node.js · MongoDB
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RaviTripathi15/CareerForge)
-
----
-
-### 📦 DropZone
-> Secure file sharing with UUID-based links, SHA-256 password protection, and 7-day auto-expiry.
-
-**Stack:** Python · Flask
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RaviTripathi15/DropZone)
-
----
-
-### 🗂️ Lazy Downloads Organizer
-> Python automation script that sorts your messy Downloads folder into clean categorized directories — automatically.
-
-**Stack:** Python
-
-[![Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/RaviTripathi15/lazy-downloads-organizer)
-
----
 
 ## 📊 GitHub Stats
 
