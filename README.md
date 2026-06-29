@@ -7,7 +7,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-RaviTripathi15-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaviTripathi15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ravi%20Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-tripathi)
+[![LinkedIn](www.linkedin.com/in/ravi-tripathi-2b9690376)](https://www.linkedin.com/in/ravi-tripathi)
 [![Email](https://img.shields.io/badge/Email-tripathiravi5500@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathiravi5500@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=RaviTripathi15&style=for-the-badge&color=6366f1&label=VISITORS)](https://github.com/RaviTripathi15)
 
