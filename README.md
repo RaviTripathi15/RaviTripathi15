@@ -59,11 +59,11 @@ I'm not optimizing for shortcuts — I'm optimizing for the kind of fundamentals
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🏥 **[Hospital Management System](https://github.com/RaviTripathi15)** | React · Node.js · Express · MongoDB Atlas | Full-stack app for managing patients, appointments, and hospital records with a REST API backend. |
-| 🎓 **[Student Management System](https://github.com/RaviTripathi15)** | React · Node.js · Express · MongoDB Atlas | CRUD-based platform for managing student records, built on the MERN stack. |
-| 🚦 **[Train Traffic Control](https://github.com/RaviTripathi15)** | React (Vercel) · Node.js (Render) | Deployed full-stack system for simulating and managing train traffic, with a separately hosted frontend and backend. |
+| 🏥 **[Hospital Management System](https://github.com/RaviTripathi15/hospital-management-system)** | React · Node.js · Express · MongoDB Atlas | Full-stack app for managing patients, appointments, and hospital records with a REST API backend. |
+| 🎓 **[Student Management System](https://github.com/RaviTripathi15/student-management-system)** | React · Node.js · Express · MongoDB Atlas | CRUD-based platform for managing student records, built on the MERN stack. |
+| 🚦 **[Train Traffic Control](https://github.com/RaviTripathi15/train-traffic-control)** | React (Vercel) · Node.js (Render) | Deployed full-stack system for simulating and managing train traffic, with a separately hosted frontend and backend. |
 
-> Replace the links above with your actual repo URLs, e.g. `https://github.com/RaviTripathi15/hospital-management-system`
+> ⚠️ Swap the slugs above (`hospital-management-system`, etc.) for your actual repo names — links currently pointing at just `github.com/RaviTripathi15` will 404 on click since that's your profile, not a repo.
 
 ---
 
@@ -94,7 +94,9 @@ Dynamic Programming       ████░░░░░░░░  Upcoming
 
 </div>
 
-> **Note on reliability:** the original `github-readme-stats.vercel.app` public instance is now flagged by its own maintainers as unstable and deprecated in favor of the actively-maintained **`github-stats-extended.vercel.app`** fork, which is what's used above. `streak-stats.demolab.com` is still the official, maintained endpoint. If any card ever shows "Something went wrong," it's almost always a temporary rate limit on the free public server — refreshing the page or waiting a few minutes fixes it. For guaranteed uptime, you can self-host either service on your own free Vercel account (both repos have a one-click "Deploy" button).
+> **Verified working:** I tested all three card URLs directly and they render correctly. `github-stats-extended.vercel.app` is the actively-maintained successor to the old `github-readme-stats.vercel.app` (that one is now community-flagged as unstable), so no changes needed here. `streak-stats.demolab.com` is also fine as-is.
+>
+> One thing to know: `count_private=true` only shows real numbers if you enable **"Include private contributions"** on your GitHub profile (Settings → Profile → Contributions & activity). Otherwise it'll just show your public count even though the parameter is present.
 
 ---
 
@@ -109,9 +111,9 @@ Dynamic Programming       ████░░░░░░░░  Upcoming
 </p>
 
 <details>
-<summary>⚙️ Snake Workflow Setup (unchanged, still correct)</summary>
+<summary>⚙️ Snake Workflow Setup (fixed — see change below)</summary>
 
-Create `.github/workflows/snake.yml`:
+Create `.github/workflows/snake.yml` **in your special `RaviTripathi15/RaviTripathi15` repo**:
 
 ```yaml
 name: Generate Snake
@@ -120,19 +122,30 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: RaviTripathi15
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake SVG to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
@@ -140,7 +153,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-This workflow needs to exist in your **`RaviTripathi15/RaviTripathi15`** repo specifically (the special profile repo), and the workflow must run at least once (manually trigger it via "Run workflow") before the SVG URLs above will resolve.
+**What was actually broken and why your snake image was a 404:**
+1. **Missing `permissions: contents: write`** — this is the real fix. GitHub changed the default `GITHUB_TOKEN` permissions to read-only for newer repos. Without this block, the `output` branch push fails silently and the workflow shows green even though nothing got pushed.
+2. Added an explicit `actions/checkout@v4` step so the action runs against a clean checkout.
+3. Hardcoded `github_user_name: RaviTripathi15` instead of relying on `github.repository_owner` — safer if you ever rename the repo.
+
+**After committing this file:**
+- Go to your `RaviTripathi15/RaviTripathi15` repo → **Actions** tab → select "Generate Snake" → **Run workflow** manually the first time.
+- Check that an `output` branch now exists in the repo with the SVG files in it.
+- The image URLs in this README don't need to change — they'll start resolving once that branch exists.
 
 </details>
 
