@@ -1,41 +1,68 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6366f1,50:8b5cf6,100:ec4899&text=Hi,%20I'm%20Ravi%20Tripathi%20👋&fontColor=ffffff&fontSize=44&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20DSA%20%2B%20Full%20Stack&descAlignY=68&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4&text=Ravi%20Tripathi&fontColor=ffffff&fontSize=46&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20in%20the%20making%20%7C%20DSA%20%2B%20Full%20Stack&descAlignY=62&descSize=17"/>
+
+<br/>
 
 <a href="https://github.com/RaviTripathi15"><img src="https://img.shields.io/badge/GitHub-RaviTripathi15-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ravi-tripathi-2b9690376"><img src="https://img.shields.io/badge/LinkedIn-Ravi%20Tripathi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:tripathiravi5500@gmail.com"><img src="https://img.shields.io/badge/Email-tripathiravi5500%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=RaviTripathi15&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+<a href="https://www.linkedin.com/in/ravi-tripathi-2b9690376"><img src="https://img.shields.io/badge/LinkedIn-Ravi%20Tripathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tripathiravi5500@gmail.com"><img src="https://img.shields.io/badge/Email-tripathiravi5500%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/RaviTripathi15"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=RaviTripathi15&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-I'm a **B.Tech CSE student** building the two things every strong SDE candidate needs in parallel: **rock-solid problem-solving (DSA)** and **real, deployed full-stack products**.
+## `whoami`
 
-```text
-🎯 Goal        →  Software Engineer role at a top product company
-📚 Focus       →  Java DSA · System Design fundamentals · REST APIs
-🛠️ Building    →  Production-grade MERN applications, end to end
-🌱 Philosophy  →  Understand deeply → build cleanly → ship confidently
+```java
+public class Ravi extends B_Tech_CSE {
+
+    private String currentFocus  = "Data Structures & Algorithms (Java)";
+    private String buildingWith  = "MERN Stack — real, deployed products";
+    private String targetRole    = "Software Engineer, Google";
+
+    public String[] principles() {
+        return new String[] {
+            "Understand the problem before writing line one",
+            "Optimize for time complexity, not just working code",
+            "Ship things that are actually deployed, not just demoed"
+        };
+    }
+}
 ```
 
-I'm not optimizing for shortcuts — I'm optimizing for the kind of fundamentals that hold up in a real interview loop and a real production system.
+I'm a **B.Tech CSE student** training for Google-caliber engineering — which means two things running in parallel, every single day: **rigorous algorithmic problem-solving** and **shipping real, production-grade software**. No shortcuts, no tutorial-hell — just depth that holds up under a whiteboard, an onsite, and a production incident.
 
 ---
 
-## 🎯 Roadmap
+## 🎯 Why Google
 
 ```text
- ✅  Java Core & OOP fundamentals
- ✅  Full-stack MERN apps (auth, DB, deployment)
- 🔄  Data Structures & Algorithms — arrays, hashmaps, strings (Java)
+🧩 Problem-solving   → I like problems with no obvious answer — that's where DSA lives
+🏗️ Scale & systems   → Interested in the engineering behind products used by billions
+🔍 Bar for quality   → Clean, correct, efficient code — not just code that "passes"
+🌱 Growth mindset    → Comfortable being the least experienced person in the room
+```
+
+---
+
+## 🗺️ Roadmap to Interview-Ready
+
+```text
+ ✅  Java — Core & OOP fundamentals
+ ✅  Full-stack MERN apps — auth, database, deployment
+ 🔄  Data Structures & Algorithms — Arrays, HashMaps, Strings, Two Pointers
  🔄  SQL — joins, indexing, query optimization
  🔜  Trees, Graphs & Dynamic Programming
- 🔜  System Design fundamentals (caching, load balancing, scaling)
- 🔜  Open source contributions
+ 🔜  System Design fundamentals — caching, load balancing, scalability
+ 🔜  Mock interviews + Google-style interview prep
  🔜  SDE / Full-Stack internship
 ```
 
@@ -43,13 +70,13 @@ I'm not optimizing for shortcuts — I'm optimizing for the kind of fundamentals
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,react,html,css,tailwind&theme=light" />
 </p>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb&theme=light" />
 </p>
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=light" />
 </p>
 
@@ -59,25 +86,32 @@ I'm not optimizing for shortcuts — I'm optimizing for the kind of fundamentals
 
 | Project | Stack | What it does |
 |---|---|---|
-| 🏥 **[Hospital Management System](https://github.com/RaviTripathi15/hospital-management-system)** | React · Node.js · Express · MongoDB Atlas | Full-stack app for managing patients, appointments, and hospital records with a REST API backend. |
-| 🎓 **[Student Management System](https://github.com/RaviTripathi15/student-management-system)** | React · Node.js · Express · MongoDB Atlas | CRUD-based platform for managing student records, built on the MERN stack. |
-| 🚦 **[Train Traffic Control](https://github.com/RaviTripathi15/train-traffic-control)** | React (Vercel) · Node.js (Render) | Deployed full-stack system for simulating and managing train traffic, with a separately hosted frontend and backend. |
+| 🏥 **[Hospital Management System](https://github.com/RaviTripathi15/hospital-management-system)** | React · Node.js · Express · MongoDB Atlas | Full-stack app for managing patients, appointments, and hospital records via a REST API. |
+| 🎓 **[Student Management System](https://github.com/RaviTripathi15/student-management-system)** | React · Node.js · Express · MongoDB Atlas | CRUD-based platform for managing student records on the MERN stack. |
+| 🚦 **[Train Traffic Control](https://github.com/RaviTripathi15/train-traffic-control)** | React (Vercel) · Node.js (Render) | Deployed system simulating and managing train traffic, with separately hosted frontend and backend. |
 
-> ⚠️ Swap the slugs above (`hospital-management-system`, etc.) for your actual repo names — links currently pointing at just `github.com/RaviTripathi15` will 404 on click since that's your profile, not a repo.
+> Replace the repo slugs above with your actual repository names if they differ — a link pointing only at `github.com/RaviTripathi15` will 404 since that's your profile, not a repo.
 
 ---
 
-## 🧠 DSA Progress (Java)
+## 🧠 DSA Progress (Java) — LeetCode
 
 ```text
-Arrays & HashMaps        ██████████░░  Solid — rank transforms, prefix problems
-Strings                  █████████░░░  Strong
-Linked Lists              ████████░░░░  In Progress
-Stacks & Queues           ███████░░░░░  In Progress
-Trees & Graphs            █████░░░░░░░  Learning
-Recursion & Backtracking  ██████░░░░░░  Building
-Dynamic Programming       ████░░░░░░░░  Upcoming
+Arrays & HashMaps         ██████████░░  Solid — rank transforms, prefix problems
+Strings                   █████████░░░  Strong
+Two Pointers / Sliding Wnd ████████░░░░  Solid
+Linked Lists               ████████░░░░  In Progress
+Stacks & Queues            ███████░░░░░  In Progress
+Trees & Graphs             █████░░░░░░░  Learning
+Recursion & Backtracking   ██████░░░░░░  Building
+Dynamic Programming        ████░░░░░░░░  Upcoming
 ```
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/RaviTripathi15?theme=light&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+> Swap `RaviTripathi15` above for your actual LeetCode username if different — this card pulls your live solved-count, ranking, and difficulty breakdown automatically.
 
 ---
 
@@ -85,18 +119,16 @@ Dynamic Programming       ████░░░░░░░░  Upcoming
 
 <div align="center">
 
-<img height="175em" src="https://github-stats-extended.vercel.app/api?username=RaviTripathi15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
-<img height="175em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=RaviTripathi15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RaviTripathi15&show_icons=true&theme=graywhite&hide_border=true&count_private=true&bg_color=ffffff&title_color=4285F4&icon_color=EA4335&text_color=333333"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTripathi15&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=4285F4&text_color=333333"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=RaviTripathi15&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1"/>
+<img src="https://streak-stats.demolab.com?user=RaviTripathi15&theme=default&hide_border=true&background=ffffff&ring=4285F4&fire=EA4335&currStreakLabel=4285F4"/>
 
 </div>
 
-> **Verified working:** I tested all three card URLs directly and they render correctly. `github-stats-extended.vercel.app` is the actively-maintained successor to the old `github-readme-stats.vercel.app` (that one is now community-flagged as unstable), so no changes needed here. `streak-stats.demolab.com` is also fine as-is.
->
-> One thing to know: `count_private=true` only shows real numbers if you enable **"Include private contributions"** on your GitHub profile (Settings → Profile → Contributions & activity). Otherwise it'll just show your public count even though the parameter is present.
+> `count_private=true` only reflects real numbers once **"Include private contributions"** is enabled under GitHub → Settings → Profile → Contributions & activity.
 
 ---
 
@@ -111,9 +143,9 @@ Dynamic Programming       ████░░░░░░░░  Upcoming
 </p>
 
 <details>
-<summary>⚙️ Snake Workflow Setup (fixed — see change below)</summary>
+<summary>⚙️ Snake workflow setup (only needed once)</summary>
 
-Create `.github/workflows/snake.yml` **in your special `RaviTripathi15/RaviTripathi15` repo**:
+Create `.github/workflows/snake.yml` in your special `RaviTripathi15/RaviTripathi15` repo:
 
 ```yaml
 name: Generate Snake
@@ -144,7 +176,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake SVG to the output branch
+      - name: Push snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -153,25 +185,17 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**What was actually broken and why your snake image was a 404:**
-1. **Missing `permissions: contents: write`** — this is the real fix. GitHub changed the default `GITHUB_TOKEN` permissions to read-only for newer repos. Without this block, the `output` branch push fails silently and the workflow shows green even though nothing got pushed.
-2. Added an explicit `actions/checkout@v4` step so the action runs against a clean checkout.
-3. Hardcoded `github_user_name: RaviTripathi15` instead of relying on `github.repository_owner` — safer if you ever rename the repo.
-
-**After committing this file:**
-- Go to your `RaviTripathi15/RaviTripathi15` repo → **Actions** tab → select "Generate Snake" → **Run workflow** manually the first time.
-- Check that an `output` branch now exists in the repo with the SVG files in it.
-- The image URLs in this README don't need to change — they'll start resolving once that branch exists.
+The `permissions: contents: write` block is essential — without it, GitHub's default read-only token silently fails to push to the `output` branch even though the workflow shows green. Run it once manually from the **Actions** tab after committing.
 
 </details>
 
 ---
 
-## 💭 How I Think About Code
+## 💭 Engineering Principles
 
 ```text
 Understand the problem before writing line one.
-Get it working, then make it clean.
+Correctness first, then performance, then elegance.
 A slow query will quietly kill a fast app.
 Readable code is a gift to your future self — and your reviewer.
 Depth compounds. Consistency compounds faster.
@@ -181,7 +205,7 @@ Depth compounds. Consistency compounds faster.
 
 ## 📚 Currently Learning
 
-- ☕ **Java** — DSA patterns: hashmaps, trees, graphs, DP
+- ☕ **Java DSA** — HashMaps, Trees, Graphs, Dynamic Programming
 - 🗃️ **SQL** — indexing, joins, query optimization
 - 🔗 **REST API design** — auth, error handling, rate limiting
 - 🏗️ **System Design fundamentals** — caching, load balancing, scaling
@@ -191,8 +215,8 @@ Depth compounds. Consistency compounds faster.
 
 <div align="center">
 
-### 🌱 Building today. Interviewing tomorrow. Improving always.
+### 🌱 Solving today. Interviewing tomorrow. At Google someday.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6366f1,50:8b5cf6,100:ec4899"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4285F4,25:EA4335,50:FBBC05,75:34A853,100:4285F4"/>
 
 </div>
